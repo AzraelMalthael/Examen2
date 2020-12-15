@@ -1,14 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Dec 13 13:53:19 2020
-
-POPULATION_SIZE = 200
-N_ITERATIONS = 1000
-N_MATINGS = 50
-a = Runner(toolbox)
-a.set_parameters(POPULATION_SIZE, N_ITERATIONS, N_MATINGS)
-stats, population = a.Run()
-
 @author: Windows Vista
 """
 
